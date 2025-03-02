@@ -26,7 +26,7 @@ const ProjectPage: React.FC<ProjectPageProps> = ({ project }) => {
       
       {/* Description Section */}
       <div className="bg-white shadow-lg rounded-lg p-8 mb-8">
-        <h2 className="text-xl font-bold text-gray-900 mb-4">Project Description</h2>
+        <h2 className="text-xl font-bold text-gray-900 mb-4">Projektbeskrivning</h2>
         <div className="prose max-w-none text-gray-700">
           {project.description.split('\n').map((paragraph, index) => (
             <p key={index} className="mb-4">{paragraph}</p>
@@ -36,7 +36,7 @@ const ProjectPage: React.FC<ProjectPageProps> = ({ project }) => {
       
       {/* Technologies Used */}
       <div className="bg-white shadow-lg rounded-lg p-8 mb-8">
-        <h2 className="text-xl font-bold text-gray-900 mb-4">Technologies Used</h2>
+        <h2 className="text-xl font-bold text-gray-900 mb-4">Använda teknlogier</h2>
         <div className="flex flex-wrap gap-2">
           {project.technologies.map((tech, index) => (
             <span 
