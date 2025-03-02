@@ -53,7 +53,7 @@ const Home = () => {
 
       {/* About Section */}
       <section className="mb-16">
-        <h2 className="text-2xl font-bold text-gray-900 mb-6">Om mige</h2>
+        <h2 className="text-2xl font-bold text-gray-900 mb-6">Om mig</h2>
         <div className="bg-white shadow-lg rounded-lg p-8">
           <p className="text-lg text-gray-700 mb-4">
             När jag var yngre studerade jag programmering på Örebro universitet. Jag blev dock inte klar utan kom in i läraryrket. Jag har dock alltid haft ett latent intresse har tagit upp programmering i perioder. 
