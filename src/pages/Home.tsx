@@ -64,7 +64,7 @@ const Home = () => {
           </p>
           <p className="text-lg text-gray-700">
             Min erfarenhet som lärare har utrustat mig med utmärkta kommunikationsförmågor och en samarbetsinriktad inställning. 
-            Kombinationen av pedagog och utvecklare hoppas jag vara en värdefull kombination
+            Kombinationen av pedagog och utvecklare hoppas jag vara en värdefull kombination.\n
             Utforska gärna mina projekt som visar min resa och mina förmågor. Det finns fler projekt på github som inte visar här.
           </p>
         </div>
