@@ -56,7 +56,7 @@ const Home = () => {
         <h2 className="text-2xl font-bold text-gray-900 mb-6">Om mig</h2>
         <div className="bg-white shadow-lg rounded-lg p-8">
           <p className="text-lg text-gray-700 mb-4">
-            När jag var yngre studerade jag programmering på Örebro universitet. Livet ville annorlunda och jag kom in i läraryrket istället. Jag har dock alltid haft ett latent intresse och har tagit upp programmering i perioder. 
+            När jag var yngre studerade jag programmering på Örebro universitet. Jag fortsatte inte den banan utan kom in i läraryrket istället. Jag har dock alltid haft ett latent intresse och har tagit upp programmering i perioder. 
             Augusti 2023 blev jag lärare i en programmeringskurs i C#. Då väcktes min passion för programmering igen och jag insåg att jag vill byta yrke och arbeta med det.
           </p>
           <p className="text-lg text-gray-700 mb-4">
