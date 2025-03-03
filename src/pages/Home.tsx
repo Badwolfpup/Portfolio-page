@@ -23,7 +23,7 @@ const Home = () => {
                 Adam Folke
               </h1>
               <p className="mt-4 max-w-2xl text-xl text-gray-500">
-                Efter att ha arbetat som lärare i närmare 20 år vill jag mig själv en utmaning och ta steget in i mjukvaruutvecklingsvärlden. 
+                Efter att ha arbetat som lärare i närmare 20 år vill jag ge mig själv en utmaning och ta steget in i mjukvaruutvecklingsvärlden. 
                 Med starka färdigheter i C# och en kärlek till problemlösning är jag redo för nya utmaningar.
               </p>
               <div className="mt-6 flex space-x-4">
@@ -56,7 +56,7 @@ const Home = () => {
         <h2 className="text-2xl font-bold text-gray-900 mb-6">Om mig</h2>
         <div className="bg-white shadow-lg rounded-lg p-8">
           <p className="text-lg text-gray-700 mb-4">
-            När jag var yngre studerade jag programmering på Örebro universitet. Jag blev dock inte klar utan kom in i läraryrket. Jag har dock alltid haft ett latent intresse har tagit upp programmering i perioder. 
+            När jag var yngre studerade jag programmering på Örebro universitet. Livet ville annorlunda och jag kom in i läraryrket istället. Jag har dock alltid haft ett latent intresse och har tagit upp programmering i perioder. 
             Augusti 2023 blev jag lärare i en programmeringskurs i C#. Då väcktes min passion för programmering igen och jag insåg att jag vill byta yrke och arbeta med det.
           </p>
           <p className="text-lg text-gray-700 mb-4">
