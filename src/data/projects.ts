@@ -23,7 +23,7 @@ export const projects: ProjectType[] = [
   {
     id: "black-jack",
     title: "Black Jack",
-    shortDescription: "Ett fullt fungerande Black Jack-spel, med stöd för upp till 6 datorpspeaare",
+    shortDescription: "Ett fullt fungerande Black Jack-spel, med stöd för upp till 6 datorspelare",
     description: "Mitt första större projekt. Det är ett fullt fungerande Black Jack-spel. Det är skrivet i C# och använder Windows Forms. Datorspelarna har en enkel algoritm som styr hur de spelar. ",    
     thumbnail: "https://i.postimg.cc/gJKWYFB9/blackjack.png",
     videoUrl: "https://www.youtube.com/embed/Lv6fel7cu2A?si=YT9sp00mOtMgbKz9",
