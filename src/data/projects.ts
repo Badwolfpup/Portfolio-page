@@ -14,7 +14,7 @@ export const projects: ProjectType[] = [
     id: "recept-och-inköpslista",
     title: "Receptapp",
     shortDescription: "En desktopapp där du kan lägga in olika varor, skapa recept och inköpslistor",
-    description: "Man kan lägga in matvaror och andra varor. Du anger visst näringsinnehåll och annan information, samt pris och storlek. Matvarorna kan du lägga till i recept för att beräkna kalorimängden. Du kan också skapa inköpslistor, antingen genom att lägga till hela receptet eller varje vara för sig.",    
+    description: "ReceptApp är en modern Windows-applikation utvecklad i C# med WPF och MVVM-designmönster. Programmet gör det möjligt för användare att hantera, organisera och visa recept på ett användarvänligt sätt.",    
     thumbnail: "https://i.postimg.cc/NjWYDxrn/receptapp.png",
     videoUrl: "https://www.youtube.com/embed/aLEdNL1pAMo?si=7lznjLNTRunLgbH7",
     githubUrl: "https://github.com/Badwolfpup/ReceptApp",
