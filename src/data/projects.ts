@@ -33,8 +33,10 @@ export const projects: ProjectType[] = [
   {
     id: "patiens",
     title: "Sjuans patiens",
-    shortDescription: "En återskapelse av den klassiska patiensen Sjuan",
-    description: "Ett patiensspel skriver i javascript. Jag ville testa att skriv ett fullödigt program i ett annat programmeringsspråk. Du har möjlighet att välja om du själv ska flytta korten eller om de ska flyttas automatiskt. Du kan också välja att låta datorn spela åt dig",    
+    shortDescription: "En återskapelse av den klassiska patiensen Sjuan. Spelet är en webbaserad patiens-applikation utvecklad med HTML, CSS och JavaScript. Spelet låter användaren spela klassisk patiens direkt i webbläsaren med en interaktiv och responsiv design.
+",
+    description: "Tekniska höjdpunkter: - DOM-manipulation: Använder JavaScript för att dynamiskt uppdatera spelets UI. - Händelsehantering: Implementerar drag-och-släpp-funktionalitet för kortflyttning. - Spellogik: Hanterar kortlekar, draghögar och vinstkontroller med strukturerad kod. - Responsiv design: Anpassad för olika skärmstorlekar genom flexibla CSS-stilar. Projektet demonstrerar min förmåga att utveckla interaktiva webbapplikationer med JavaScript och en genomtänkt UI-design.
+",    
     thumbnail: "https://i.postimg.cc/YSY7sm6C/sjuan.png",
     videoUrl: "https://www.youtube.com/embed/GvN0AAWIesU?si=Mf12kSUoiFK8smEC",
     githubUrl: "https://github.com/Badwolfpup/Patiens",
