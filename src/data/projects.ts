@@ -14,7 +14,13 @@ export const projects: ProjectType[] = [
     id: "recept-och-inköpslista",
     title: "Receptapp",
     shortDescription: "En desktopapp där du kan lägga in olika varor, skapa recept och inköpslistor",
-    description: "ReceptApp är en modern Windows-applikation utvecklad i C# med WPF och MVVM-designmönster. Programmet gör det möjligt för användare att hantera, organisera och visa recept på ett användarvänligt sätt.",    
+    description: "ReceptApp är en modern Windows-applikation utvecklad i C# med WPF och MVVM-designmönster. Programmet gör det möjligt för användare att hantera, organisera och visa recept på ett användarvänligt sätt.\n Tekniska höjdpunkter:\n +
+"MVVM-arkitektur: Implementerar god separering av logik och gränssnitt för ökad skalbarhet och testbarhet.\n" +
+"Databindning & INotifyPropertyChanged: Dynamisk uppdatering av UI-komponenter genom databindning.\n" +
+"Navigation & Sidhantering: Använder WPF Pages för att hantera olika vyer smidigt.\n" +
+"Responsiv och dynamisk UI: Byggd med XAML för en modern och användarvänlig design.\n" +
+"Asynkron bearbetning: Använder Dispatcher för att hantera UI-uppdateringar utan att blockera huvudtråden.\n\n" +
+"Denna applikation visar min förmåga att utveckla fullständiga desktop-applikationer med C# och WPF samt att följa moderna designprinciper för en strukturerad och underhållbar kodbas.";",    
     thumbnail: "https://i.postimg.cc/NjWYDxrn/receptapp.png",
     videoUrl: "https://www.youtube.com/embed/aLEdNL1pAMo?si=7lznjLNTRunLgbH7",
     githubUrl: "https://github.com/Badwolfpup/ReceptApp",
