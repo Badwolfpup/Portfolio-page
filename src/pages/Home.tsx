@@ -57,14 +57,13 @@ const Home = () => {
         <div className="bg-white shadow-lg rounded-lg p-8">
           <p className="text-lg text-gray-700 mb-4">
             När jag var yngre studerade jag programmering på Örebro universitet. Jag fortsatte inte den banan utan kom in i läraryrket istället. Jag har dock alltid haft ett latent intresse och har tagit upp programmering i perioder. 
-            Augusti 2023 blev jag lärare i en programmeringskurs i C#. Då väcktes min passion för programmering igen och jag insåg att jag vill byta yrke och arbeta med det.
+            Augusti 2023 blev jag lärare i en programmeringskurs i C#. Då väcktes min passion för programmering igen och jag insåg att jag vill byta bana och arbeta med det.
           </p>
           <p className="text-lg text-gray-700 mb-4">
             Sedan dess har jag arbetat hårt för att förbättra mina färdigheter i C# och utforska andra programspråk för att bygga en mångsidig portfolio.
           </p>
           <p className="text-lg text-gray-700">
             Min erfarenhet som lärare har utrustat mig med utmärkta kommunikationsförmågor och en samarbetsinriktad inställning. 
-            Kombinationen av pedagog och utvecklare hoppas jag vara en värdefull kombination.
             Utforska gärna mina projekt som visar min resa och mina förmågor. Det finns fler projekt på github som inte visar här.
           </p>
         </div>
